@@ -13,6 +13,8 @@ public class Main {
 
     }
 }
-class OtomobilParcasi{
+class OtomobilParcasi {
+    public static void tryingBest() {
 
+    }
 }
